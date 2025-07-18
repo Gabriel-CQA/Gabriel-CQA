@@ -1,4 +1,4 @@
-# Olá, meu nome é Gabriel Castro e seja muito bem vindo(a) ao meu cantinho Coder 👩🏻‍💻
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Oi!%F0%9F%91%8B+Sou+o+Gabriel.+;Seja+Bem-Vindo(a);meu+GitHub+%3A)" alt="Typing SVG" /></a>
 
 **`Estudante de ADS`** & **`Futuro Analista de Qualidade de Software`**
 

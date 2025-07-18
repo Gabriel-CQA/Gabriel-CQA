@@ -5,8 +5,17 @@
 
 **`Estudante de ADS`** & **`Futuro Engenheiro Analista de Qualidade de Software`**
 
-Olá! Sou Gabriel Henrique De Castro, tenho 25 anos, sou atualmente sou estudante de Análise e Desenvolvimento de Sistemas e em transição de carreira para a área de Quality Assurance (QA). Atuei por 2 anos como designer gráfico formado e participei de projetos de desenvolvimento de landing pages em WordPress no setor B2B, atendendo empresas focadas em geração de leads e presença digital. Essa experiência fortaleceu minha visão sobre usabilidade, lógica de aplicações e comunicação orientada a resultados. Atualmente, me especializo em testes manuais, automação de testes e fundamentos de segurança da informação. Estou em busca de oportunidades como estagiário ou júnior na área de QA.
+<p align="left">
+Futuro programador em formação, com <strong>foco em me tornar Engenheiro Analista de Qualidade de Software</strong>.<br>
+Atualmente, tenho concentrado meus estudos em <strong>lógica de programação</strong>,<strong>testes de caixa preta (funcionais e não funcionais)</strong> e <strong>escrita em Gherkin com foco em BDD</strong>, visando <strong>conquistar uma oportunidade</strong> no mercado de tecnologia e qualidade de software.
+</p>
 
+## Quem sou eu?
+
+- 😃 Tenho 25 anos, moro no interior de São Paulo, mas sou criado na Capital;
+- 🖥️ Curso Tecnólogo em Desenvolvimento de Sistemas pelo Descomplica Faculdade Digital;
+- 🎓 Formado em Design Gráfico e com experiência no ramo B2B por 2 anos;
+- 📚 Estudando JavaScript, Java, Html, Css e principalmente as ferramentas de automação de Software.
 
 <div> 
   <a href = "mailto:gabrielcastro.gh79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

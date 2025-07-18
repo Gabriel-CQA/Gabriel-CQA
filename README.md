@@ -23,15 +23,14 @@ Atualmente, tenho concentrado meus estudos em <strong>lógica de programação</
   <a href="https://github.com/Gabriel-CQA?tab=repositories"><img alt="Meus projetos",title="Projetos" src="https://custom-icon-badges.demolab.com/github/stars/gabriel-cqa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=projetos"/></a>
 </div>
 
----
 
-### 🤖 Linguagens (em estudo)
+## 🤖 Linguagens (em estudo)
 
 <img 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -40,7 +39,7 @@ Atualmente, tenho concentrado meus estudos em <strong>lógica de programação</
     align="left" 
     alt="Java" 
     title="Java"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
@@ -49,7 +48,7 @@ Atualmente, tenho concentrado meus estudos em <strong>lógica de programação</
     align="left" 
     alt="Css3" 
     title="Css3"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -58,7 +57,7 @@ Atualmente, tenho concentrado meus estudos em <strong>lógica de programação</
     align="left" 
     alt="Html5" 
     title="Html5"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -66,15 +65,14 @@ Atualmente, tenho concentrado meus estudos em <strong>lógica de programação</
 <br/>
 <br/>
 
----
 
-### 🤖 Frameworks de Teste de Software (em estudo)
+## 🤖 Frameworks de Teste de Software (em estudo)
 
 <img 
     align="left" 
     alt="Cypressio" 
     title="Cypressio"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" 
 />
@@ -83,7 +81,7 @@ Atualmente, tenho concentrado meus estudos em <strong>lógica de programação</
     align="left" 
     alt="Playwright" 
     title="Playwright"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" 
 />
@@ -92,7 +90,7 @@ Atualmente, tenho concentrado meus estudos em <strong>lógica de programação</
     align="left" 
     alt="CodeseptJs" 
     title="CodeseptJs"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://i.imgur.com/4PXeOSW.png" 
 />
@@ -101,7 +99,7 @@ Atualmente, tenho concentrado meus estudos em <strong>lógica de programação</
     align="left" 
     alt="Selenium" 
     title="Selenium"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
 />
@@ -110,7 +108,7 @@ Atualmente, tenho concentrado meus estudos em <strong>lógica de programação</
     align="left" 
     alt="Robot" 
     title="Robot"
-    width="80px" 
+    width="90px" 
     style="padding-right: 10px;" 
     src="https://i.imgur.com/j7UDOOV.png" 
 />
@@ -119,32 +117,38 @@ Atualmente, tenho concentrado meus estudos em <strong>lógica de programação</
     align="left" 
     alt="Appium" 
     title="Appium"
-    width="38px" 
+    width="0px" 
     style="padding-right: 10px;" 
     src="https://i.imgur.com/3qUOFY6.png" 
 />
 
 <br/>
 <br/>
+<br/>
+<br/>
 
----
-### 📊 Estatíticas
+<img src="https://media.tenor.com/0WkmuOC_W00AAAAj/waving-pikachu.gif" alt="pikachu" min-width="290px" max-width="290px" width="380px" align="right">
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gabriel-cqa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<p align="left">
+Sou formado como <strong>Técnico em Design Gráfico</strong> pela Cruzeiro do Sul Virtual e atualmente curso o <strong>1º período de Análise 
+e Desenvolvimento de Sistemas</strong> na Faculdade Descomplica Digital.<br>
+  <br>
+Estou em transição de carreira em busca de maior estabilidade e qualidade de vida, alinhando meus objetivos pessoais com minha paixão por tecnologia. 
+Durante minha formação em Análise e Desenvolvimento de Sistemas, descobri a área de Qualidade de Software, que me chamou muito a atenção pelo foco em boas 
+práticas dentro dos projetos.<br>
+  <br>
+Como formado em Design Gráfico e com <strong>experiência no mercado B2B por 2 anos</strong>, me identifiquei com essa área, pois já apliquei metodologias de boas práticas, 
+análises de requisitos centradas no cliente e entregas que geram valor para o usuário final.
+</p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-cqa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
-  />
+<p align="left">
 
 </p>
 
+<p align="left">
+  Vamos nos conectar? Me siga no linkedin 👇
+</p>
+
+<p align="left">
+ <a href="https://www.linkedin.com/in/gabriel-ccastro/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</p>

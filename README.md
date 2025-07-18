@@ -1,8 +1,11 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Oi!%F0%9F%91%8B+Sou+o+Gabriel.+;Seja+Bem-Vindo(a);meu+GitHub+%3A)" alt="Typing SVG" /></a>
+<div> 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=1000&color=F70000&width=435&lines=Oi!%F0%9F%91%8B+Sou+o+Gabriel.+;Seja+Bem-Vindo(a);meu+GitHub+%3A)" alt="Typing SVG" /></a> 
+<div> 
 
-**`Estudante de ADS`** & **`Futuro Analista de Qualidade de Software`**
+**`Estudante de ADS`** & **`Futuro Engenheiro Analista de Qualidade de Software`**
 
-Olá! Sou Gabriel Henrique De Castro, estudante de Análise e Desenvolvimento de Sistemas e em transição de carreira para a área de Quality Assurance (QA). Atuei por 2 anos como designer gráfico formado e participei de projetos de desenvolvimento de landing pages em WordPress no setor B2B, atendendo empresas focadas em geração de leads e presença digital. Essa experiência fortaleceu minha visão sobre usabilidade, lógica de aplicações e comunicação orientada a resultados. Atualmente, me especializo em testes manuais, automação de testes e fundamentos de segurança da informação. Estou em busca de oportunidades como estagiário ou júnior na área de QA.
+Olá! Sou Gabriel Henrique De Castro, tenho 25 anos, sou atualmente sou estudante de Análise e Desenvolvimento de Sistemas e em transição de carreira para a área de Quality Assurance (QA). Atuei por 2 anos como designer gráfico formado e participei de projetos de desenvolvimento de landing pages em WordPress no setor B2B, atendendo empresas focadas em geração de leads e presença digital. Essa experiência fortaleceu minha visão sobre usabilidade, lógica de aplicações e comunicação orientada a resultados. Atualmente, me especializo em testes manuais, automação de testes e fundamentos de segurança da informação. Estou em busca de oportunidades como estagiário ou júnior na área de QA.
 
 
 <div> 

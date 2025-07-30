@@ -128,8 +128,8 @@ Atualmente, tenho concentrado meus estudos em <strong>lógica de programação</
 <img src="https://media.tenor.com/0WkmuOC_W00AAAAj/waving-pikachu.gif" alt="pikachu" min-width="290px" max-width="290px" width="380px" align="right">
 
 <p align="left">
-Sou formado como <strong>Técnico em Design Gráfico</strong> pela Cruzeiro do Sul Virtual e atualmente curso o <strong>1º período de Análise 
-e Desenvolvimento de Sistemas</strong> na Faculdade Descomplica Digital.<br>
+Sou formado como <strong>Técnico em Design Gráfico</strong> pela Cruzeiro do Sul Virtual (2024) e atualmente curso o <strong>1º período de Análise 
+e Desenvolvimento de Sistemas</strong> na Faculdade Descomplica Digital com a previsão de formação em julho de 2028.<br>
   <br>
 Estou em transição de carreira em busca de maior estabilidade e qualidade de vida, alinhando meus objetivos pessoais com minha paixão por tecnologia. 
 Durante minha formação em Análise e Desenvolvimento de Sistemas, descobri a área de Qualidade de Software, que me chamou muito a atenção pelo foco em boas 

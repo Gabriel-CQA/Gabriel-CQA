@@ -6,7 +6,7 @@
 **`Estudante de ADS`** & **`Futuro Engenheiro Analista de Qualidade de Software`**
 
 <p align="left">
-Futuro programador em formação, com <strong>foco em me tornar Engenheiro Analista de Qualidade de Software</strong>.<br>
+Estudante de programação, com <strong>foco em me tornar Engenheiro Analista de Qualidade de Software</strong>.<br>
 Atualmente, tenho concentrado meus estudos em <strong>lógica de programação</strong>,<strong>testes de caixa preta (funcionais e não funcionais)</strong> e <strong>escrita em Gherkin com foco em BDD</strong>, visando <strong>conquistar uma oportunidade</strong> no mercado de tecnologia na área de qualidade de software.
 </p>
 

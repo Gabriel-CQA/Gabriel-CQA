@@ -1,7 +1,7 @@
 ## Olá, meu nome é Gabriel, muito prazer! 👨🏻‍💻
 
-**`Estudante de ADS`** & **`Futuro Engenheiro Analista de Qualidade de Software`**
-##
+**`Futuro Engenheiro Analista de Qualidade de Software`**
+
 
 <p align="left">
 Estudante de programação, com <strong>foco em me tornar Engenheiro Analista de Qualidade de Software</strong>.<br>

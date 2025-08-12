@@ -10,7 +10,7 @@ Atualmente, tenho concentrado meus estudos em <strong>lógica de programação</
 
 ## Quem sou eu?
 
-- 😃 Tenho 25 anos, moro no interior de São Paulo, mas sou nascido na Capital;
+- 😃 Tenho 25 anos, moro no interior de São Paulo, mas sou da Capital;
 - 🖥️ Curso Tecnólogo em Desenvolvimento de Sistemas pelo Descomplica Faculdade Digital;
 - 🎓 Formado em Design Gráfico e com experiência no ramo B2B por 2 anos;
 - 📚 Estudando JavaScript, Java, Html, Css e principalmente as ferramentas de automação de Software.

@@ -1,18 +1,18 @@
 ## Olá, meu nome é Gabriel, muito prazer! 👨🏻‍💻
 
-**`Futuro Engenheiro Analista de Qualidade de Software`**
+**`Futuro Analista de Qualidade de Software | Estudante de Análise e Desenvolvimento de Software`**
 
 
 <p align="left">
-Estudante de programação, com <strong>foco em me tornar Engenheiro Analista de Qualidade de Software</strong>.<br>
-Atualmente, tenho concentrado meus estudos em <strong>lógica de programação</strong>,<strong>testes de caixa preta (funcionais e não funcionais)</strong> e <strong>escrita em Gherkin com foco em BDD</strong>, visando <strong>conquistar uma oportunidade</strong> no mercado de tecnologia na área de qualidade de software.
+Estudante de programação, com <strong>foco em me tornar Analista de Qualidade de Software</strong>.<br>
+Atualmente, tenho concentrado meus estudos em <strong>lógica de programação</strong>,<strong>testes de caixa preta (funcionais e não funcionais)</strong> e <strong>escrita em Gherkin com foco em BDD</strong>, visando <strong>conquistar uma oportunidade</strong> na área de qualidade de software.
 </p>
 
 ## Quem sou eu?
 
-- 😃 Tenho 25 anos, moro no interior de São Paulo, mas sou da Capital;
-- 🖥️ Curso Tecnólogo em Desenvolvimento de Sistemas pelo Descomplica Faculdade Digital;
-- 🎓 Formado em Design Gráfico e com experiência no ramo B2B por 2 anos;
+- 😃 Tenho 25 anos, residente no interior de São Paulo.
+- 🖥️ Curso Tecnólogo em Desenvolvimento de Sistemas (Descomplica Faculdade Digital);
+- 🎓 Formado em Design Gráfico e com experiência no ramo B2B por 2 anos e também em Web Design;
 - 📚 Estudando JavaScript, Java, Html, Css e principalmente as ferramentas de automação de Software.
 
 <div> 

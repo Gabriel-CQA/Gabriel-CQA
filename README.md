@@ -133,7 +133,7 @@ e Desenvolvimento de Sistemas</strong> na Faculdade Descomplica Digital com a pr
   <br>
 Estou em transição de carreira em busca de maior estabilidade e qualidade de vida, alinhando meus objetivos pessoais com minha paixão por tecnologia. 
 Durante minha trajetória como Designer Gráfico, atuei fortemente no desenvolvimento web, criando sites e landing pages em WordPress. Essa experiência me 
-proporcionou contato direto com processos de validação e qualidade, despertando meu interesse pela área de QA (Quality Assurance)<br>
+proporcionou contato direto com processos de validação e qualidade, despertando meu interesse pela área de QA (Quality Assurance).<br>
   <br>
 Como formado em Design Gráfico e com <strong>experiência no mercado B2B por 2 anos</strong>, me identifiquei com essa área, pois sempre apliquei metodologias de boas práticas, 
 análises de requisitos centradas no cliente e entregas que geram valor para o usuário final.

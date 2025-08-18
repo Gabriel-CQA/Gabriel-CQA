@@ -67,7 +67,9 @@ buscando evolução contínua na área de QA.
 <br/>
 <br/>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJkN2l4NDc3a20yZDU0Nmt0MHNkcW8yNHR3NHM5cTI1Nmh5bXpjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Trabalhando" min-width="290px" max-width="290px" width="380px" align="right">
+## Projetos
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJkN2l4NDc3a20yZDU0Nmt0MHNkcW8yNHR3NHM5cTI1Nmh5bXpjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Trabalhando" min-width="290px" max-width="290px" width="380px"  align="right" align="center">
 
 ## Resumo
 

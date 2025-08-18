@@ -78,11 +78,10 @@ Estou em transição de carreira para uma área mais técnica da tecnologia, ali
 ## Resumo
 
 <div style="text-align: center;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJkN2l4NDc3a20yZDU0Nmt0MHNkcW8yNHR3NHM5cTI1Nmh5bXpjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" 
-       alt="Trabalhando" 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJkN2l4NDc3a20yZDU0Nmt0MHNkcW8yNHR3NHM5cTI1Nmh5bXpjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"
+       alt="Trabalhando"
        style="min-width: 290px; max-width: 290px; width: 380px;">
 </div>
-
 </p>
 
 <p align="left">

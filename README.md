@@ -44,7 +44,7 @@ buscando evolução contínua na área de QA.
 />
 <br/>
 <br/>
-## 🤖 Banco de Dados e SGBD
+## 🤖 Banco de Dados e SGBD para consulta
 
 <img 
     align="left" 

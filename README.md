@@ -19,7 +19,7 @@ Estudante de programação, com <strong>foco em me tornar Analista de Qualidade 
   <a href="https://github.com/Gabriel-CQA?tab=repositories"><img alt="Meus projetos",title="Projetos" src="https://custom-icon-badges.demolab.com/github/stars/gabriel-cqa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=projetos" /></a>
 </div>
 
-## 🔍 Técnicas de Testes
+## 🔍 Tecnologias, Ferramentas e Técnicas que eu aplico nos meus projetos:
 
 - **Testes Manuais (Caixa Preta)** – execução prática de cenários e casos de uso  
 - **Testes Exploratórios** – investigação de comportamentos inesperados  
@@ -28,8 +28,7 @@ Estudante de programação, com <strong>foco em me tornar Analista de Qualidade 
 - **Testes de Integração** – verificar comunicação entre módulos/sistemas  
 - **Testes de Fumaça (Smoke Tests)** – validação inicial de builds  
 
-
-## 🤖 Frameworks de Teste de Software (em estudo)
+## 🤖 Frameworks para automação 
 
 <img 
     align="left" 
@@ -47,6 +46,26 @@ Estudante de programação, com <strong>foco em me tornar Analista de Qualidade 
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
+/>
+
+## 🤖 Banco de Dados e SGBD
+
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
 
 <br/>

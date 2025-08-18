@@ -47,6 +47,10 @@ Estudante de programação, com <strong>foco em me tornar Analista de Qualidade 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
 />
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## 🤖 Banco de Dados e SGBD
 

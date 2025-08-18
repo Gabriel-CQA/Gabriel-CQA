@@ -2,9 +2,10 @@
 
 **`Futuro Analista de Qualidade de Software | Estudante de Análise e Desenvolvimento de Sistemas`**
 
-
 <p align="left">
-Estudante de programação, com <strong>foco em me tornar Analista de Qualidade de Software</strong>. Atualmente, tenho concentrado meus estudos em <strong>lógica de programação</strong>,<strong>testes de caixa preta (funcionais e não funcionais)</strong> e <strong>escrita em Gherkin com foco em BDD</strong>, visando <strong>conquistar uma oportunidade</strong> na área de qualidade de software.
+Estudante de Análise e Desenvolvimento de Sistemas, com <strong>foco em Qualidade de Software (QA)</strong>. 
+Atualmente, venho aplicando meus conhecimentos em <strong>testes manuais, exploratórios e automação</strong> em projetos pessoais, 
+buscando evolução contínua na área de QA.
 </p>
 
 ## Quem sou eu?

@@ -14,11 +14,6 @@ buscando evolução contínua na área de QA.
 - 🖥️ Cursando Tecnólogo em Desenvolvimento de Sistemas (Descomplica Faculdade Digital);
 - 🎓 Formado em Design Gráfico e com experiência no ramo B2B e também em Web Design;
 
-<div> 
-  <a href = "mailto:gabrielcastro.gh79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-ccastro/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  <a href="https://github.com/Gabriel-CQA?tab=repositories"><img alt="Meus projetos",title="Projetos" src="https://custom-icon-badges.demolab.com/github/stars/gabriel-cqa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=projetos" /></a>
-</div>
 
 ## 🔍 Tecnologias, Ferramentas e Técnicas que eu aplico nos meus projetos:
 
@@ -88,9 +83,13 @@ Estou em transição de carreira para uma área mais técnica da tecnologia, ali
 </p>
 
 <p align="left">
-  Vamos nos conectar? Me siga no linkedin 👇
+  Contato 👇
 </p>
 
+<div>
 <p align="left">
  <a href="https://www.linkedin.com/in/gabriel-ccastro/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</p>
+  <a href = "mailto:gabrielcastro.gh79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-ccastro/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://github.com/Gabriel-CQA?tab=repositories"><img alt="Meus projetos",title="Projetos" src="https://custom-icon-badges.demolab.com/github/stars/gabriel-cqa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=projetos" /></a>
+</div>

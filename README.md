@@ -14,6 +14,9 @@ buscando evolução contínua na área de QA.
 - 🖥️ Cursando Tecnólogo em Desenvolvimento de Sistemas (Descomplica Faculdade Digital);
 - 🎓 Formado em Design Gráfico e com experiência no ramo B2B e também em Web Design;
 
+<br/>
+<br/>
+<br/>
 
 ## 🔍 Tecnologias, Ferramentas e Técnicas que eu aplico nos meus projetos:
 
@@ -23,7 +26,9 @@ buscando evolução contínua na área de QA.
 - **Testes de Regressão (Automação)** – garantir estabilidade após mudanças  
 - **Testes de Integração** – verificar comunicação entre módulos/sistemas  
 - **Testes de Fumaça (Smoke Tests)** – validação inicial de builds  
-
+<br/>
+<br/>
+<br/>
 ## 🤖 Frameworks para automação 
 
 <img 

@@ -12,7 +12,7 @@ buscando evolução contínua na área de QA.
 
 - 😃 Tenho 25 anos, residente no interior de São Paulo.
 - 🖥️ Cursando Tecnólogo em Desenvolvimento de Sistemas (Descomplica Faculdade Digital);
-- 🎓 Formado em Design Gráfico e com experiência no ramo B2B por 2 anos e também em Web Design;
+- 🎓 Formado em Design Gráfico e com experiência no ramo B2B e também em Web Design;
 
 <div> 
   <a href = "mailto:gabrielcastro.gh79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

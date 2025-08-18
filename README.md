@@ -4,8 +4,7 @@
 
 
 <p align="left">
-Estudante de programação, com <strong>foco em me tornar Analista de Qualidade de Software</strong>.<br>
-Atualmente, tenho concentrado meus estudos em <strong>lógica de programação</strong>,<strong>testes de caixa preta (funcionais e não funcionais)</strong> e <strong>escrita em Gherkin com foco em BDD</strong>, visando <strong>conquistar uma oportunidade</strong> na área de qualidade de software.
+Estudante de programação, com <strong>foco em me tornar Analista de Qualidade de Software</strong>.Atualmente, tenho concentrado meus estudos em <strong>lógica de programação</strong>,<strong>testes de caixa preta (funcionais e não funcionais)</strong> e <strong>escrita em Gherkin com foco em BDD</strong>, visando <strong>conquistar uma oportunidade</strong> na área de qualidade de software.
 </p>
 
 ## Quem sou eu?

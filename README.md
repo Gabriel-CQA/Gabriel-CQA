@@ -49,9 +49,6 @@ Estudante de programação, com <strong>foco em me tornar Analista de Qualidade 
 />
 <br/>
 <br/>
-<br/>
-<br/>
-
 ## 🤖 Banco de Dados e SGBD
 
 <img 

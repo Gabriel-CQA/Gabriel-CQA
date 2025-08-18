@@ -1,6 +1,6 @@
 ## Olá, meu nome é Gabriel, muito prazer! 👨🏻‍💻
 
-**`Futuro Analista de Qualidade de Software | Estudante de Análise e Desenvolvimento de Software`**
+**`Futuro Analista de Qualidade de Software | Estudante de Análise e Desenvolvimento de Sistemas`**
 
 
 <p align="left">

@@ -23,7 +23,7 @@ buscando evolução contínua na área de QA.
 - **Testes de Integração** – verificar comunicação entre módulos/sistemas  
 - **Testes de Fumaça (Smoke Tests)** – validação inicial de builds  
 
-## 🤖 Frameworks para automação 
+## 🤖 Frameworks para automação:
 
 <img 
     align="left" 

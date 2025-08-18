@@ -15,7 +15,6 @@ e Desenvolvimento de Sistemas</strong> na Faculdade Descomplica Digital com a pr
   <br>
 Estou em transição de carreira para uma área mais técnica da tecnologia, alinhando meus objetivos pessoais com minha paixão por inovação e qualidade. Durante minha trajetória como Designer Gráfico, atuei também no desenvolvimento web, criando sites e landing pages em WordPress. Essa experiência me proporcionou contato direto com processos de validação e qualidade, despertando meu interesse pela área de QA (Quality Assurance).
   </p>
-  <br>
 
 ## 🔍 Tecnologias, Ferramentas e Técnicas que eu aplico nos meus projetos:
 

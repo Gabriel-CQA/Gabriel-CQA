@@ -69,6 +69,8 @@ buscando evolução contínua na área de QA.
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJkN2l4NDc3a20yZDU0Nmt0MHNkcW8yNHR3NHM5cTI1Nmh5bXpjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Trabalhando" min-width="290px" max-width="290px" width="380px" align="right">
 
+## Resumo
+
 <p align="left">
 Sou formado como <strong>Técnico em Design Gráfico</strong> pela Cruzeiro do Sul Virtual (2024) e atualmente curso o <strong>1º período de Análise 
 e Desenvolvimento de Sistemas</strong> na Faculdade Descomplica Digital com a previsão de formação em julho de 2028.<br>

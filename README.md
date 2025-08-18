@@ -77,16 +77,7 @@ Estou em transição de carreira para uma área mais técnica da tecnologia, ali
 
 ## Resumo
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJkN2l4NDc3a20yZDU0Nmt0MHNkcW8yNHR3NHM5cTI1Nmh5bXpjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Trabalhando" min-width="290px" max-width="290px" width="380px" align="right">
-
-
-<p align="left">
-Sou formado como <strong>Técnico em Design Gráfico</strong> pela Cruzeiro do Sul Virtual (2024) e atualmente curso o <strong>1º período de Análise 
-e Desenvolvimento de Sistemas</strong> na Faculdade Descomplica Digital com a previsão de formação em julho de 2028.<br>
-  <br>
-Estou em transição de carreira para uma área mais técnica da tecnologia, alinhando meus objetivos pessoais com minha paixão por inovação e qualidade. Durante minha trajetória como Designer Gráfico, atuei também no desenvolvimento web, criando sites e landing pages em WordPress. Essa experiência me proporcionou contato direto com processos de validação e qualidade, despertando meu interesse pela área de QA (Quality Assurance).<br>
-  <br>
-<p align="left">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJkN2l4NDc3a20yZDU0Nmt0MHNkcW8yNHR3NHM5cTI1Nmh5bXpjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Trabalhando" min-width="290px" max-width="290px" width="380px" align="center">
 
 </p>
 
@@ -95,7 +86,7 @@ Estou em transição de carreira para uma área mais técnica da tecnologia, ali
 </p>
 
 <div>
-<p align="left">
+<p align="center">
  <a href="https://www.linkedin.com/in/gabriel-ccastro/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <a href = "mailto:gabrielcastro.gh79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>

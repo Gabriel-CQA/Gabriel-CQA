@@ -8,11 +8,14 @@ Atualmente, venho aplicando meus conhecimentos em <strong>testes manuais, explor
 buscando evolução contínua na área de QA.
 </p>
 
-## Quem sou eu?
-
-- 😃 Tenho 25 anos, residente no interior de São Paulo.
-- 🖥️ Cursando Tecnólogo em Desenvolvimento de Sistemas (Descomplica Faculdade Digital);
-- 🎓 Formado em Design Gráfico e com experiência no ramo B2B e também em Web Design;
+## Sobre mim
+<p align="left">
+Sou formado como <strong>Técnico em Design Gráfico</strong> pela Cruzeiro do Sul Virtual (2024) e atualmente curso o <strong>1º período de Análise 
+e Desenvolvimento de Sistemas</strong> na Faculdade Descomplica Digital com a previsão de formação em julho de 2028.<br>
+  <br>
+Estou em transição de carreira para uma área mais técnica da tecnologia, alinhando meus objetivos pessoais com minha paixão por inovação e qualidade. Durante minha trajetória como Designer Gráfico, atuei também no desenvolvimento web, criando sites e landing pages em WordPress. Essa experiência me proporcionou contato direto com processos de validação e qualidade, despertando meu interesse pela área de QA (Quality Assurance).
+  </p>
+  <br>
 
 ## 🔍 Tecnologias, Ferramentas e Técnicas que eu aplico nos meus projetos:
 
@@ -88,7 +91,7 @@ Estou em transição de carreira para uma área mais técnica da tecnologia, ali
 </p>
 
 <p align="left">
-  Contato 👇
+  Entre em Contato 👇
 </p>
 
 <div>

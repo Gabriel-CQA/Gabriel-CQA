@@ -19,7 +19,7 @@ Estudante de programação, com <strong>foco em me tornar Analista de Qualidade 
   <a href="https://github.com/Gabriel-CQA?tab=repositories"><img alt="Meus projetos",title="Projetos" src="https://custom-icon-badges.demolab.com/github/stars/gabriel-cqa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=projetos" /></a>
 </div>
 
-## 🔍 Técnicas de Testes que eu conheço
+## 🔍 Técnicas de Testes
 
 - **Testes Manuais (Caixa Preta)** – execução prática de cenários e casos de uso  
 - **Testes Exploratórios** – investigação de comportamentos inesperados  

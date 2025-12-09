@@ -10,7 +10,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com experiência prátic
 <p align="left">
 Atualmente curso o <strong>2º semestre de Análise e Desenvolvimento de Sistemas</strong> na Faculdade Descomplica Digital, com conclusão prevista para janeiro de 2028.
   <br>
+  <br>
 Tive experiência como <strong>Estagiário de QA</strong>, atuando diretamente em processos de garantia de qualidade, criação e execução de casos de teste, testes exploratórios, testes básicos de API e participação de rotinas ágeis como daily, review e planning.
+  <br>
   <br>
 Minha principal motivação é contribuir para a entrega de produtos funcionais, estáveis e com alta confiabilidade.
   </p>

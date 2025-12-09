@@ -1,85 +1,39 @@
 ## Olá, meu nome é Gabriel, muito prazer! 👨🏻‍💻
 
-**`Futuro Analista de Qualidade de Software | Estudante de Análise e Desenvolvimento de Sistemas`**
+**`Analista de Qualidade de Software (QA) | Estudante de Análise e Desenvolvimento de Sistemas`**
 
 <p align="left">
-Estudante de Análise e Desenvolvimento de Sistemas, com <strong>foco em Qualidade de Software (QA)</strong>. 
-Atualmente, venho aplicando meus conhecimentos em <strong>testes manuais, exploratórios e automação</strong> em projetos pessoais, 
-buscando evolução contínua na área de QA.
+Sou estudante de Análise e Desenvolvimento de Sistemas com experiência prática como <strong>Estagiário de QA</strong>. Atuei com <strong>testes manuais, testes exploratórios, análise de requisitos</strong> e <strong>registro/acompanhamento de bugs</strong>, sempre buscando garantir a qualidade do software durante o ciclo de desenvolvimento. Estou em constante evolução, estudando ferramentas, técnicas e boas práticas da área de Qualidade de Software.
 </p>
 
 ## Sobre mim
 <p align="left">
-Sou formado como <strong>Técnico em Design Gráfico</strong> pela Cruzeiro do Sul Virtual (2024) e atualmente curso o <strong>1º período de Análise 
-e Desenvolvimento de Sistemas</strong> na Faculdade Descomplica Digital com a previsão de formação em julho de 2028.<br>
+Atualmente curso o <strong>2º semestre de Análise e Desenvolvimento de Sistemas</strong> na Faculdade Descomplica Digital, com conclusão prevista para janeiro de 2028.
   <br>
-Estou em transição de carreira para uma área mais técnica da tecnologia, alinhando meus objetivos pessoais com minha paixão por inovação e qualidade. Durante minha trajetória como Designer Gráfico, atuei também no desenvolvimento web, criando sites e landing pages em WordPress. Essa experiência me proporcionou contato direto com processos de validação e qualidade, despertando meu interesse pela área de QA (Quality Assurance).
+Tive experiência como <strong>Estagiário de QA</strong>, atuando diretamente em processos de garantia de qualidade, criação e execução de casos de teste, testes exploratórios, testes básicos de API e participação de rotinas ágeis como daily, review e planning.
+  <br>
+Minha principal motivação é contribuir para a entrega de produtos funcionais, estáveis e com alta confiabilidade.
   </p>
 
-## 🔍 Tecnologias, Ferramentas e Técnicas que eu aplico nos meus projetos:
+## 🛠️ Habilidades e Tecnolgias:
 
-- **Testes Manuais (Caixa Preta)** – execução prática de cenários e casos de uso  
-- **Testes Exploratórios** – investigação de comportamentos inesperados  
-- **Testes de Layout (UI/UX)** – validação visual e responsividade  
-- **Testes de Regressão (Automação)** – garantir estabilidade após mudanças  
-- **Testes de Integração** – verificar comunicação entre módulos/sistemas  
-- **Testes de Fumaça (Smoke Tests)** – validação inicial de builds  
+- Testes manuais;  
+- Testes exploratórios; 
+- Criação e execução de casos de teste;  
+- Registro e acompanhamento de bugs (Azure DevOps);
+- Testes básicos de API (Postman e Insomnia);
+- Noções de automação com JavaScript e Java;
+- Conhecimento em Cypress e Selenium e Selenium Webdriver;
+- Metodologias ágeis (Scrum);
+- Conhecimento em Git e Github;
+- Conhecimento em SQL para consultas básicas em banco de dados;
 
-## 🤖 Frameworks para automação:
-
-<img 
-    align="left" 
-    alt="Cypressio" 
-    title="Cypressio"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Selenium" 
-    title="Selenium"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
-/>
-<br/>
-<br/>
-## 🤖 Banco de Dados e SGBD para consultas:
-
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
-
-<br/>
-<br/>
-
-## Meus Projetos
-
-<br/>
-<br/>
+## 📌 Objetivo:
+<p align="left"> Evoluir constantemente como Analista de Qualidade de Software, contribuindo para a entrega de produtos de alta qualidade e 
+fortalecendo processos de teste dentro das equipes. </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJkN2l4NDc3a20yZDU0Nmt0MHNkcW8yNHR3NHM5cTI1Nmh5bXpjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Gif animado">
-</p>
-
-<p align="center">
-  Entre em Contato 👇
+  Entre em Contato comigo 👇
 </p>
 
 <div>

@@ -25,7 +25,7 @@ Minha principal motivação é contribuir para a entrega de produtos funcionais,
 - Registro e acompanhamento de bugs (Azure DevOps);
 - Testes básicos de API (Postman e Insomnia);
 - Noções de automação com JavaScript e Java;
-- Conhecimento em Cypress e Selenium e Selenium Webdriver;
+- Conhecimento em Cypress, Selenium e Selenium Webdriver;
 - Metodologias ágeis (Scrum);
 - Conhecimento em Git e Github;
 - Conhecimento em SQL para consultas básicas em banco de dados;

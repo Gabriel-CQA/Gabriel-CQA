@@ -2,10 +2,6 @@
 
 **`Analista de Qualidade de Software (QA) | Estudante de Engenharia de Software`**
 
-<p align="left">
-Sou estudante de Engenharia de Software com experiência prática como <strong>Estagiário de QA</strong>. Atuei com <strong>testes manuais, testes exploratórios, análise de requisitos</strong> e <strong>registro/acompanhamento de bugs</strong>, sempre buscando garantir a qualidade do software durante o ciclo de desenvolvimento. Estou em constante evolução, estudando ferramentas, técnicas e boas práticas da área de Qualidade de Software.
-</p>
-
 ## Sobre mim
 <p align="left">
 Atualmente curso o <strong>1º semestre de Engenharia de Software</strong> na Faculdade FACINT, com conclusão prevista para Novembro de 2029.

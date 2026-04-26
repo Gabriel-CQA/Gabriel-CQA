@@ -8,7 +8,7 @@ Sou estudante de Engenharia de Software com experiência prática como <strong>E
 
 ## Sobre mim
 <p align="left">
-Atualmente curso o <strong>2º semestre de Análise e Desenvolvimento de Sistemas</strong> na Faculdade FACINT, com conclusão prevista para Novembro de 2029.
+Atualmente curso o <strong>1º semestre de Engenharia de Software</strong> na Faculdade FACINT, com conclusão prevista para Novembro de 2029.
   <br>
   <br>
 Tive experiência como <strong>Estagiário de QA</strong>, atuando diretamente em processos de garantia de qualidade, criação e execução de casos de teste, testes exploratórios, testes básicos de API e participação de rotinas ágeis como daily, review e planning.

@@ -1,14 +1,14 @@
 ## Olá, meu nome é Gabriel, muito prazer! 👨🏻‍💻
 
-**`Analista de Qualidade de Software (QA) | Estudante de Análise e Desenvolvimento de Sistemas`**
+**`Analista de Qualidade de Software (QA) | Estudante de Engenharia de Software`**
 
 <p align="left">
-Sou estudante de Análise e Desenvolvimento de Sistemas com experiência prática como <strong>Estagiário de QA</strong>. Atuei com <strong>testes manuais, testes exploratórios, análise de requisitos</strong> e <strong>registro/acompanhamento de bugs</strong>, sempre buscando garantir a qualidade do software durante o ciclo de desenvolvimento. Estou em constante evolução, estudando ferramentas, técnicas e boas práticas da área de Qualidade de Software.
+Sou estudante de Engenharia de Software com experiência prática como <strong>Estagiário de QA</strong>. Atuei com <strong>testes manuais, testes exploratórios, análise de requisitos</strong> e <strong>registro/acompanhamento de bugs</strong>, sempre buscando garantir a qualidade do software durante o ciclo de desenvolvimento. Estou em constante evolução, estudando ferramentas, técnicas e boas práticas da área de Qualidade de Software.
 </p>
 
 ## Sobre mim
 <p align="left">
-Atualmente curso o <strong>2º semestre de Análise e Desenvolvimento de Sistemas</strong> na Faculdade Descomplica Digital, com conclusão prevista para janeiro de 2028.
+Atualmente curso o <strong>2º semestre de Análise e Desenvolvimento de Sistemas</strong> na Faculdade FACINT, com conclusão prevista para Novembro de 2029.
   <br>
   <br>
 Tive experiência como <strong>Estagiário de QA</strong>, atuando diretamente em processos de garantia de qualidade, criação e execução de casos de teste, testes exploratórios, testes básicos de API e participação de rotinas ágeis como daily, review e planning.

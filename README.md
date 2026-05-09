@@ -24,7 +24,12 @@ Gosto bastante da área de tecnologia, tenho experiência prática também volta
 - Conhecimento básico em Git;
 
 ## 📌 Projetos e Estudos Práticos:
+##### 🔍 QA:
 
+<br>
+<hr>
+<br>
 
-### 💻 Desenvolvimento:
-[Exercícios de Lógica em Portugal](https://github.com/Gabriel-CQA/Visualg_Exercicios)
+##### 💻 Desenvolvimento:
+- [Exercícios de Lógica em Portugal](https://github.com/Gabriel-CQA/Visualg_Exercicios)
+  

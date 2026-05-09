@@ -23,8 +23,18 @@ Gosto bastante da área de tecnologia, tenho experiência prática também volta
 - Metodologias ágeis (Scrum);
 - Conhecimento básico em Git;
 
+## 💻 Conhecimentos em Desenvolvimento:
+
+- HTML5 (linguagem de marcação)
+- CSS (Estudando)
+- Testes básicos de API (Postman);
+- Metodologias ágeis (Scrum);
+- Conhecimento básico em Git;
+
+
 ## 📌 Projetos e Estudos Práticos:
 ##### 🔍 QA:
+- Em desenvolvimento
 
 <hr>
 

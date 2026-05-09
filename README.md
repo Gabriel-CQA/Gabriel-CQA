@@ -1,6 +1,6 @@
 ## Olá, meu nome é Gabriel, muito prazer! 👨🏻‍💻
 
-**`Estudante de Engenharia de Software`** & **`Estudante de QA`**
+**`Estudante de Engenharia de Software`**
 
 ## Sobre mim
 <p align="left">

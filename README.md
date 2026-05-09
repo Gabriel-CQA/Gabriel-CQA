@@ -13,7 +13,7 @@ Tive minha primeira experiência recentemente como <strong>Estagiário de QA</st
 Gosto bastante da área de tecnologia, tenho experiência prática também voltada para a área de Design Gráfico, onde eu atuei por 2 anos e também sou formado, desenvolvendo peças gráficas e modelos white label para clientes. Minha principal motivação é de nunca ficar parado, sempre buscando me atualizar e contribuir para a entrega de produtos funcionais, estáveis e com alta confiabilidade para todos os clientes.
   </p>
   
-## 🔍 Conhecimentos voltado para QA:
+## 🔍 Conhecimentos em QA:
 
 - Testes manuais;  
 - Testes exploratórios; 
@@ -23,4 +23,8 @@ Gosto bastante da área de tecnologia, tenho experiência prática também volta
 - Metodologias ágeis (Scrum);
 - Conhecimento básico em Git;
 
-## 📌 Projetos:
+## 📌 Projetos e Estudos Práticos:
+
+
+### 💻 Desenvolvimento:
+[Exercícios de Lógica em Portugal](https://github.com/Gabriel-CQA/Visualg_Exercicios)
